@@ -7,7 +7,6 @@ namespace Aircraft.Specifications
     [CreateAssetMenu(fileName = "New Aerofoil Spec", menuName = "Component Specifications/Aerofoil Spec")]
     public class AerofoilSpecification : ScriptableObject
     {
-        [SerializeField] private Mesh mesh;
         [SerializeField] private float chordLength;
         [SerializeField] private float span;
         [SerializeField] private AnimationCurve liftCoefficientCurve;
@@ -19,7 +18,6 @@ namespace Aircraft.Specifications
         private Keyframe dragCurveMin;
         private Keyframe dragCurveMax;
 
-        public Mesh Mesh => mesh;
         public float ChordLength => chordLength;
         public float Span => span;
 
