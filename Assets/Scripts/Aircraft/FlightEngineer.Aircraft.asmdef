@@ -1,0 +1,15 @@
+{
+    "name": "Aircraft",
+    "references": [
+        "GUID:b8508fe9a33109241af25bec7c2b488a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

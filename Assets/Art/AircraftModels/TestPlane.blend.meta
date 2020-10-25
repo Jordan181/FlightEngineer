@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: d357da0e06f749d49bee8d43eefe28de
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cube
+    100002: //RootNode
+    100004: Camera
+    100006: Cylinder
+    100008: Fuselage
+    100010: Propeller
+    100012: Wings
+    100014: BasicFuselage
+    100016: BasicPropeller
+    100018: BasicWings
+    100020: WingLeft
+    100022: WingRight
+    100024: Cube.001
+    100026: Origin
+    100028: LeftWing
+    100030: RightWing
+    100032: AileronLeft
+    100034: AileronRight
+    100036: ElevatorLeft
+    100038: ElevatorRight
+    100040: Rudder
+    100042: Elevator
+    100044: Tail
+    100046: TestPlane_Geom
+    100048: HorizontalStabilizer
+    400000: Cube
+    400002: //RootNode
+    400004: Camera
+    400006: Cylinder
+    400008: Fuselage
+    400010: Propeller
+    400012: Wings
+    400014: BasicFuselage
+    400016: BasicPropeller
+    400018: BasicWings
+    400020: WingLeft
+    400022: WingRight
+    400024: Cube.001
+    400026: Origin
+    400028: LeftWing
+    400030: RightWing
+    400032: AileronLeft
+    400034: AileronRight
+    400036: ElevatorLeft
+    400038: ElevatorRight
+    400040: Rudder
+    400042: Elevator
+    400044: Tail
+    400046: TestPlane_Geom
+    400048: HorizontalStabilizer
+    2000000: Camera
+    2100000: No Name
+    2100002: Material.001
+    2100004: Material.002
+    2100006: Material.003
+    2100008: Material.004
+    2100010: Material.005
+    2100012: Material.006
+    2300000: Cube
+    2300002: //RootNode
+    2300004: Cylinder
+    2300006: Fuselage
+    2300008: Propeller
+    2300010: Wings
+    2300012: BasicFuselage
+    2300014: BasicPropeller
+    2300016: BasicWings
+    2300018: WingLeft
+    2300020: WingRight
+    2300022: Cube.001
+    2300024: LeftWing
+    2300026: RightWing
+    2300028: AileronLeft
+    2300030: AileronRight
+    2300032: ElevatorLeft
+    2300034: ElevatorRight
+    2300036: Rudder
+    2300038: Elevator
+    2300040: Tail
+    2300042: TestPlane_Geom
+    2300044: HorizontalStabilizer
+    3300000: Cube
+    3300002: //RootNode
+    3300004: Cylinder
+    3300006: Fuselage
+    3300008: Propeller
+    3300010: Wings
+    3300012: BasicFuselage
+    3300014: BasicPropeller
+    3300016: BasicWings
+    3300018: WingLeft
+    3300020: WingRight
+    3300022: Cube.001
+    3300024: LeftWing
+    3300026: RightWing
+    3300028: AileronLeft
+    3300030: AileronRight
+    3300032: ElevatorLeft
+    3300034: ElevatorRight
+    3300036: Rudder
+    3300038: Elevator
+    3300040: Tail
+    3300042: TestPlane_Geom
+    3300044: HorizontalStabilizer
+    4300000: Cylinder
+    4300002: Cube
+    4300004: Fuselage
+    4300006: Wings
+    4300008: Propeller
+    4300010: BasicFuselage
+    4300012: BasicWings
+    4300014: BasicPropeller
+    4300016: WingLeft
+    4300018: WingRight
+    4300020: Cube.001
+    4300022: RightWing
+    4300024: LeftWing
+    4300026: TestPlane
+    4300028: Rudder
+    4300030: ElevatorLeft
+    4300032: ElevatorRight
+    4300034: AileronRight
+    4300036: AileronLeft
+    4300038: TestPlane_Geom
+    4300040: Tail
+    4300042: Elevator
+    4300044: HorizontalStabilizer
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
