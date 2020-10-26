@@ -15,3 +15,11 @@ script to control that component. The list of components and the associated scri
      
 Each component also requires a specification to define the performance of that part. This allows for a completely modular system where a plane could be modelled using any
 combination of parts.
+
+Xbox Controller Mappings:
+     RT: Increase Throttle
+     LT: Decrease Throttle
+     Left Stick Y Axis: Pitch
+     Left Stick X Axis: Roll
+     Right Stick X Axis: Yaw
+     A: Brake
